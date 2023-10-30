@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.Latest-match-cont {
+  background-color: #0f172a;
+  padding: 50px;
+  display: flex;
+  font-family: Bree Serif;
+  color: white;
+  justify-content: space-around;
+  width: 90%;
+  border-radius: 10px;
+  align-items: center;
+}
+.competing-team-logo {
+  height: 300px;
+  width: 300px;
+}

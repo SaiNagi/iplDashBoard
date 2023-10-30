@@ -1,0 +1,75 @@
+/* Write your CSS here */
+.team-container-RCB {
+  background-color: #d91c1f;
+
+  text-align: center;
+  min-height: 100vh;
+  width: 100vw;
+  padding: 40px;
+}
+.team-container-KKR {
+  background-color: #0f172a;
+  min-height: 100vh;
+  width: 100vw;
+  padding: 40px;
+  text-align: center;
+}
+.team-container-KXP {
+  background-color: #d91c1f;
+  min-height: 100vh;
+  width: 100vw;
+  text-align: center;
+  padding: 40px;
+}
+.team-container-CSK {
+  background-color: #f7db00;
+  min-height: 100vh;
+  width: 100vw;
+  text-align: center;
+  padding: 40px;
+}
+.team-container-RR {
+  background-color: #13418b;
+  min-height: 100vh;
+  width: 100vw;
+  padding: 40px;
+  text-align: center;
+}
+.team-container-MI {
+  background-color: #13418b;
+  min-height: 100vh;
+  width: 100vw;
+  text-align: center;
+  padding: 40px;
+}
+.team-container-SH {
+  background-color: #f26d22;
+  min-height: 100vh;
+  width: 100vw;
+  padding: 40px;
+  text-align: center;
+}
+.team-container-DC {
+  background-color: #5755a7;
+  min-height: 100vh;
+  text-align: center;
+  width: 100vw;
+  padding: 40px;
+}
+.team-image {
+  min-height: 350px;
+  width: 90%;
+  background-size: cover;
+}
+.latest-match {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+.recent-matches {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}

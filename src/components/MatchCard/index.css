@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.recent-match-card {
+  width: 350px;
+  background-color: #0f172a;
+  border-radius: 10px;
+  color: white;
+  font-family: Bree Serif;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.recent-image {
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+
+.status-red {
+  color: #d91c1f;
+}
+
+.status-green {
+  color: #18ed66;
+}

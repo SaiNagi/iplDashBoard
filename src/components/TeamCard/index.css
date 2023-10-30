@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item-container {
+  display: flex;
+  gap: 20px;
+  width: 400px;
+  padding: 20px;
+  background-color: #ffffff33;
+  border: 1px solid white;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+.ipl-team-logo {
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+}
+.link-style {
+  text-decoration: none;
+  color: white;
+}
